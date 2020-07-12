@@ -1,6 +1,8 @@
 Config = {}
 Config.Locale = 'fr'
 
+Config.NumberOfCopsRequired = 2
+
 Banks = {
 	["fleeca"] = {
 		position = { ['x'] = 147.04908752441, ['y'] = -1044.9448242188, ['z'] = 29.36802482605 },
