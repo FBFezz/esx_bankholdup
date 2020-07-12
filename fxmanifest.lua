@@ -1,4 +1,6 @@
-dependency 'essentialmode'
+fx_version 'bodacious'
+game  'gta5'
+
 
 client_scripts {
 	'@es_extended/locale.lua',
@@ -15,3 +17,5 @@ server_scripts {
 	'config.lua',
 	'server/esx_bankholdup_sv.lua'
 }
+
+dependency 'es_extended'
